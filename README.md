@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dawid Dąbrowski</h1>
 <h3 align="center">A passionate frontend student from Poland</h3>
 
-- 🔭 I’m currently working on website for my portfolio
+Link for my portfolio - https://dawiddabrowski.netlify.app/
+
+- 🔭 I’m currently working on Cinemacify project.
 
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
