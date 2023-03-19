@@ -4,9 +4,9 @@
 
 Link for my portfolio - https://dawiddabrowski.netlify.app/
 
-- 🔭 I’m currently working on Cinemacify project.
+- 🔭 I’m currently working on Clothing Shop.
 
-- 🌱 I’m currently learning **React, Tailwind CSS**
+- 🌱 I’m currently learning **TypeScript, MaterialUI**
 
 - 📫 How to reach me **dabrowskidawid680@gmail.com**
 
