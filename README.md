@@ -4,9 +4,9 @@
 
 Link for my portfolio - https://dawiddabrowski.netlify.app/
 
-- 🔭 I’m currently working on Clothing Shop.
+- 🔭 I’m currently working on Project for my course.
 
-- 🌱 I’m currently learning **TypeScript, MaterialUI**
+- 🌱 I’m currently learning **TypeScript, Redux**
 
 - 📫 How to reach me **dabrowskidawid680@gmail.com**
 
