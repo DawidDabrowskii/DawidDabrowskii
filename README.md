@@ -1,8 +1,5 @@
 ![MasterHead](https://www.paragyte.com/img/React_Banner.png)
 <h1 align="center">Hi 👋, I'm Dawid Dąbrowski</h1>
-<h3 align="center">A passionate frontend student from Poland</h3>
-
-Link for my portfolio - https://dawiddabrowski.netlify.app/
 
 - 📫 How to reach me **dabrowskidawid680@gmail.com**
 
